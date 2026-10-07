@@ -212,6 +212,7 @@ footer .fcontact svg{flex-shrink:0}
 footer .fcontact a{color:var(--muted);transition:color .2s}
 footer .fcontact a:hover{color:var(--white)}
 footer .copy{margin-top:24px;font-size:.82rem;color:rgba(168,173,180,.7)}
+.footer-br{display:none}
 
 @media (max-width:768px){
   .nav-toggle{display:flex}
@@ -231,6 +232,8 @@ footer .copy{margin-top:24px;font-size:.82rem;color:rgba(168,173,180,.7)}
   }
   .nav-links a:last-child{border-bottom:0}
   .nav-wa{justify-content:center;margin-top:14px}
+  .footer-br{display:inline}
+  footer .sep{display:none}
   .hero{padding:36px 0 60px}
   .btn{width:100%;justify-content:center}
 }
