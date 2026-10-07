@@ -1,0 +1,75 @@
+# ProgramAR — Base de Conocimiento Completa
+
+> Servicio de gestión y armado de páginas web profesionales y optimización SEO en Argentina. Dirigido por Diego Pozo. Atención remota a clientes de todo el país.
+
+Sitio web oficial: https://diegodpozo.github.io/programar/
+
+---
+
+## 1. Información del Servicio y Credenciales (E-E-A-T)
+
+- **Nombre:** ProgramAR
+- **Dirigido por:** Diego Pozo
+- **Sitio web:** https://diegodpozo.github.io/programar/
+- **Servicio:** Diseño, desarrollo, gestión y posicionamiento SEO de páginas web
+- **Ubicación:** Buenos Aires, Argentina
+- **Cobertura:** Todo el país, de forma remota
+- **Contacto WhatsApp:** https://wa.me/5491162648300
+- **Teléfono:** +54 9 11 6264-8300
+- **Email:** diegodpozo@hotmail.com
+- **Perfil GitHub:** https://github.com/diegodpozo
+
+---
+
+## 2. Servicios
+
+### Diseño y desarrollo web
+Páginas modernas, rápidas y adaptadas a celulares (responsive), con diseño a medida y las últimas tecnologías de HTML, CSS y JavaScript. Cada sitio se construye con foco en velocidad de carga y experiencia de usuario.
+
+### Optimización SEO
+Mejoramos la posición del sitio en Google con buenas prácticas de SEO on-page: estructura de títulos (H1/H2/H3), meta descripciones, datos estructurados, sitemap, velocidad y contenido pensado para lo que busca el público objetivo.
+
+### Gestión y mantenimiento
+Nos encargamos del sitio después de publicarlo: actualizaciones de contenido, mejoras continuas, soporte técnico y evolución del sitio, sin que el cliente tenga que preocuparse.
+
+---
+
+## 3. Preguntas Frecuentes (respuestas completas)
+
+**¿Cuánto cuesta una página web?**
+Cada proyecto es único. Trabajamos con presupuesto cerrado según lo que el cliente necesite: se cuenta la idea y se envía un rango de precio sin compromiso.
+
+**¿Cuánto tarda la entrega?**
+Una landing page suele estar lista en 5 a 10 días hábiles, según la complejidad y la información que se pase (logo, textos, fotos).
+
+**¿La página está optimizada para Google?**
+Sí. Todas las páginas se construyen con buenas prácticas de SEO on-page, velocidad de carga y adaptación a celulares desde el día uno.
+
+**¿Trabajan con clientes de todo el país?**
+Sí, se trabaja de forma remota con clientes de todo el país.
+
+**¿Qué pasa después de publicar la web?**
+Se entrega el sitio online y se acompaña con soporte, mantenimiento y mejoras posteriores.
+
+**¿Cómo empezamos?**
+Escribiendo por WhatsApp o enviando un mail para agendar una charla y entender qué necesita el cliente.
+
+---
+
+## 4. Directorio del Sitio
+
+- **Inicio (landing):** https://diegodpozo.github.io/programar/
+- **Servicios:** https://diegodpozo.github.io/programar/#servicios
+- **Contacto:** https://diegodpozo.github.io/programar/#contacto
+- **Preguntas frecuentes:** https://diegodpozo.github.io/programar/faq.html
+- **Sitemap XML:** https://diegodpozo.github.io/programar/sitemap.xml
+- **Robots:** https://diegodpozo.github.io/programar/robots.txt
+- **Resumen para IA (llms.txt):** https://diegodpozo.github.io/programar/llms.txt
+
+---
+
+## 5. Datos de Contacto Directo
+
+- **WhatsApp:** https://wa.me/5491162648300 (formato internacional: +54 9 11 6264 8300)
+- **Email:** diegodpozo@hotmail.com
+- **Consulta sin compromiso:** se responde por WhatsApp o email para coordinar una charla inicial

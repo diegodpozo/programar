@@ -1,0 +1,22 @@
+# ProgramAR — Páginas web y SEO
+
+> ProgramAR es un servicio de gestión y armado de páginas web profesionales y optimización SEO en Argentina, dirigido por Diego Pozo. Trabajamos de forma remota con clientes de todo el país. Diseñamos sitios modernos, rápidos y adaptados a celulares, y los optimizamos para que Google te encuentre.
+
+Sitio oficial: https://diegodpozo.github.io/programar/
+
+## Servicios
+
+- [Diseño y desarrollo web](https://diegodpozo.github.io/programar/#servicios): Páginas modernas, rápidas y adaptadas a celulares, con diseño a medida y las últimas tecnologías.
+- [Optimización SEO](https://diegodpozo.github.io/programar/#servicios): Mejoramos tu posición en Google con buenas prácticas de SEO on-page para que te encuentren quienes buscan lo que ofrecés.
+- [Gestión y mantenimiento](https://diegodpozo.github.io/programar/#servicios): Actualizaciones, contenido y mejoras continuas del sitio, sin que el cliente se preocupe.
+
+## Preguntas frecuentes
+
+- [Preguntas frecuentes](https://diegodpozo.github.io/programar/faq.html): Precios, plazos de entrega, SEO, cobertura geográfica, soporte y cómo empezar.
+
+## Contacto
+
+- Sitio: https://diegodpozo.github.io/programar/
+- WhatsApp: https://wa.me/5491162648300 (+54 9 11 6264-8300)
+- Email: diegodpozo@hotmail.com
+- Ubicación: Buenos Aires, Argentina (atención remota en todo el país)
