@@ -226,7 +226,7 @@ footer .copy{margin-top:24px;font-size:.82rem;color:rgba(168,173,180,.7)}
     box-shadow:0 16px 32px rgba(0,0,0,.5);
     max-height:0;overflow:hidden;padding:0 6%;
     transition:max-height .35s ease, padding .35s ease;
-    z-index:55;
+    z-index:70;
   }
   .nav-links.open{max-height:380px;padding:10px 6% 22px}
   .nav-links a{
