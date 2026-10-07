@@ -20,6 +20,7 @@
     --white:#FFFFFF;
     --muted:#A8ADB4;
     --accent:#D5D9DE;
+    --grad:linear-gradient(to right,#4F5761 0%,#22262B 55%,#141619 100%);
     --radius:16px;
   }
   *{margin:0;padding:0;box-sizing:border-box}
@@ -37,7 +38,7 @@
   /* Header */
   header{
     position:sticky;top:0;z-index:50;
-    background:rgba(23,25,28,.9);
+    background:var(--grad);
     backdrop-filter:blur(12px);
     border-bottom:1px solid rgba(255,255,255,.08);
   }
@@ -131,7 +132,7 @@
 
   /* Footer con degradado */
   footer{
-    background:linear-gradient(135deg,#141619 0%,#22262B 55%,#383E45 100%);
+    background:var(--grad);
     border-top:1px solid rgba(255,255,255,.1);
     padding:50px 0 30px;
     text-align:left;
