@@ -37,7 +37,7 @@ Nos encargamos del sitio después de publicarlo: actualizaciones de contenido, m
 ## 3. Preguntas Frecuentes (respuestas completas)
 
 **¿Cuánto cuesta una página web?**
-Sitio web a medida: USD 3000 (sin límite de páginas, con SEO base y diseño responsive). Mantenimiento mensual: USD 200. Análisis SEO: USD 200. Planes de posicionamiento: USD 600, USD 1500 y USD 900 de alta + USD 150 por mes. Todos los valores en dólares (USD) y sin IVA, con pago por transferencia bancaria. Detalle completo en la página de precios.
+Landing page: USD 900. Sitio web a medida: USD 3000 (sin límite de páginas, con SEO base y diseño responsive). Mantenimiento mensual: USD 150. Análisis SEO: USD 200. Planes de posicionamiento: USD 600, USD 1500 y USD 900 de alta + USD 150 por mes. Todos los valores en dólares (USD) y sin IVA, con pago por transferencia bancaria. Detalle completo en la página de precios.
 
 **¿Cuánto tarda la entrega?**
 Una landing page suele estar lista en 5 a 10 días hábiles, según la complejidad y la información que se pase (logo, textos, fotos).
@@ -81,7 +81,10 @@ Todos los valores están expresados en dólares (USD), no contienen IVA y se pag
 **Sitio web a medida — USD 3000**
 Diseño y desarrollo completo, sin límite de páginas. Reuniones de trabajo y revisiones hasta la aprobación final. Incluye diseño responsive y SEO base. Dominio y hosting a cargo del cliente.
 
-**Mantenimiento mensual — USD 200 por mes**
+**Landing page — USD 900**
+Landing page profesional de una sola página, pensada para convertir visitas en consultas. Incluye diseño responsive y SEO base. Dominio y hosting a cargo del cliente.
+
+**Mantenimiento mensual — USD 150 por mes**
 Código y servidor, mejoras permanentes, soporte técnico, seguridad web y backups.
 
 **Análisis SEO — USD 200**
