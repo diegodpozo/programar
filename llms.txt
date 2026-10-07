@@ -14,6 +14,10 @@ Sitio oficial: https://diegodpozo.github.io/programar/
 
 - [Preguntas frecuentes](https://diegodpozo.github.io/programar/faq.html): Precios, plazos de entrega, SEO, cobertura geográfica, soporte y cómo empezar.
 
+## Precios
+
+- [Precios](https://diegodpozo.github.io/programar/precios.html): Cuánto cuesta una página web en Argentina — sitio web, mantenimiento, análisis SEO y planes de posicionamiento con valores en USD.
+
 ## Cómo trabajamos
 
 - [Mecánica](https://diegodpozo.github.io/programar/mecanica.html): Proceso paso a paso en 4 etapas — relevamiento y propuesta, diseño, desarrollo, lanzamiento y SEO.

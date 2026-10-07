@@ -37,7 +37,7 @@ Nos encargamos del sitio después de publicarlo: actualizaciones de contenido, m
 ## 3. Preguntas Frecuentes (respuestas completas)
 
 **¿Cuánto cuesta una página web?**
-Cada proyecto es único. Trabajamos con presupuesto cerrado según lo que el cliente necesite: se cuenta la idea y se envía un rango de precio sin compromiso.
+Sitio web a medida: USD 3000 (sin límite de páginas, con SEO base y diseño responsive). Mantenimiento mensual: USD 200. Análisis SEO: USD 200. Planes de posicionamiento: USD 600, USD 1500 y USD 900 de alta + USD 150 por mes. Todos los valores en dólares (USD) y sin IVA, con pago por transferencia bancaria. Detalle completo en la página de precios.
 
 **¿Cuánto tarda la entrega?**
 Una landing page suele estar lista en 5 a 10 días hábiles, según la complejidad y la información que se pase (logo, textos, fotos).
@@ -55,7 +55,7 @@ Se entrega el sitio online y se acompaña con soporte, mantenimiento y mejoras p
 Escribiendo por WhatsApp o enviando un mail para agendar una charla y entender qué necesita el cliente.
 
 **¿Están incluidos el hosting y el dominio?**
-Sí. Se ayuda a configurar el hosting y el dominio a nombre del cliente, con HTTPS incluido. El dominio tiene un costo anual a cargo del cliente y se acompaña todo el trámite.
+No. Se ayuda a configurar el hosting y el dominio a nombre del cliente, con HTTPS incluido. Tanto el dominio (costo anual) como el hosting quedan a cargo del cliente y se acompaña todo el trámite.
 
 **¿El dominio y la web quedan a mi nombre?**
 Sí. El dominio queda registrado a nombre del cliente y se entrega el acceso completo al sitio. La web es del cliente desde el primer día.
@@ -74,12 +74,37 @@ HTML, CSS y JavaScript a medida: sitios livianos, rápidos y sin dependencias in
 
 ---
 
-## 4. Directorio del Sitio
+## 4. Precios (valores en USD, sin IVA)
+
+Todos los valores están expresados en dólares (USD), no contienen IVA y se pagan por transferencia bancaria.
+
+**Sitio web a medida — USD 3000**
+Diseño y desarrollo completo, sin límite de páginas. Reuniones de trabajo y revisiones hasta la aprobación final. Incluye diseño responsive y SEO base. Dominio y hosting a cargo del cliente.
+
+**Mantenimiento mensual — USD 200 por mes**
+Código y servidor, mejoras permanentes, soporte técnico, seguridad web y backups.
+
+**Análisis SEO — USD 200**
+Auditoría y diagnóstico puntual, sin implementación.
+
+**Plan SEO 1 — Mejora puntual: USD 600 · 15 días hábiles**
+Incluye el análisis SEO y la implementación de la optimización de código sobre los puntos más críticos, con validación externa de las mejoras. Uno solo, sin continuidad.
+
+**Plan SEO 2 — Optimización intensiva: USD 1500 · 90 días hábiles**
+Incluye el análisis SEO y mejoras avanzadas de performance, indexación y estructura interna, con entregables por objetivo y evolución en métricas clave.
+
+**Plan SEO 3 — Acción continua y AEO: USD 900 de alta + USD 150 por mes · duración indefinida**
+El análisis inicial se considera dentro del valor de alta. Mantenimiento del sitio y SEO sostenido en el tiempo, ajustando técnica y contenido según la evolución del mercado y la competencia.
+
+---
+
+## 5. Directorio del Sitio
 
 - **Inicio (landing):** https://diegodpozo.github.io/programar/
 - **Servicios:** https://diegodpozo.github.io/programar/#servicios
 - **Contacto:** https://diegodpozo.github.io/programar/#contacto
 - **Preguntas frecuentes:** https://diegodpozo.github.io/programar/faq.html
+- **Precios:** https://diegodpozo.github.io/programar/precios.html
 - **Mecánica (proceso de trabajo):** https://diegodpozo.github.io/programar/mecanica.html
 - **Sitemap XML:** https://diegodpozo.github.io/programar/sitemap.xml
 - **Robots:** https://diegodpozo.github.io/programar/robots.txt
@@ -87,7 +112,7 @@ HTML, CSS y JavaScript a medida: sitios livianos, rápidos y sin dependencias in
 
 ---
 
-## 5. Datos de Contacto Directo
+## 6. Datos de Contacto Directo
 
 - **WhatsApp:** https://wa.me/5491162648300 (formato internacional: +54 9 11 6264 8300)
 - **Email:** diegodpozo@hotmail.com
