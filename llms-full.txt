@@ -80,6 +80,7 @@ HTML, CSS y JavaScript a medida: sitios livianos, rápidos y sin dependencias in
 - **Servicios:** https://diegodpozo.github.io/programar/#servicios
 - **Contacto:** https://diegodpozo.github.io/programar/#contacto
 - **Preguntas frecuentes:** https://diegodpozo.github.io/programar/faq.html
+- **Mecánica (proceso de trabajo):** https://diegodpozo.github.io/programar/mecanica.html
 - **Sitemap XML:** https://diegodpozo.github.io/programar/sitemap.xml
 - **Robots:** https://diegodpozo.github.io/programar/robots.txt
 - **Resumen para IA (llms.txt):** https://diegodpozo.github.io/programar/llms.txt

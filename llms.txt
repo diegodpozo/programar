@@ -14,6 +14,10 @@ Sitio oficial: https://diegodpozo.github.io/programar/
 
 - [Preguntas frecuentes](https://diegodpozo.github.io/programar/faq.html): Precios, plazos de entrega, SEO, cobertura geográfica, soporte y cómo empezar.
 
+## Cómo trabajamos
+
+- [Mecánica](https://diegodpozo.github.io/programar/mecanica.html): Proceso paso a paso en 4 etapas — relevamiento y propuesta, diseño, desarrollo, lanzamiento y SEO.
+
 ## Contacto
 
 - Sitio: https://diegodpozo.github.io/programar/

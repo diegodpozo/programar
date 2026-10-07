@@ -134,6 +134,25 @@ header{
 .faq details[open] summary::after{content:"\2013"}
 .faq details p{color:var(--muted);margin-top:14px;font-size:.98rem}
 
+/* Mecánica */
+.process{padding:60px 0 100px;text-align:center}
+.process .eyebrow{margin-bottom:18px}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:24px;margin-top:8px}
+.step{
+  background:var(--card);
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:var(--radius);
+  padding:34px 28px;text-align:left;
+  transition:transform .25s, border-color .25s;
+}
+.step:hover{transform:translateY(-6px);border-color:rgba(255,255,255,.4)}
+.step .num{
+  display:block;font-size:2rem;font-weight:800;
+  color:var(--accent);letter-spacing:1px;margin-bottom:14px;
+}
+.step h3{font-size:1.15rem;font-weight:700;margin-bottom:10px}
+.step p{color:var(--muted);font-size:.95rem}
+
 /* Footer con degradado */
 footer{
   background:var(--grad);
