@@ -217,15 +217,17 @@ footer .copy{margin-top:24px;font-size:.82rem;color:rgba(168,173,180,.7)}
 .footer-br{display:none}
 
 @media (max-width:768px){
-  .nav-toggle{display:flex}
+  header{position:static}
+  .nav-toggle{display:flex;position:fixed;top:14px;right:6%;z-index:60}
   .nav-links{
-    position:absolute;top:100%;left:0;right:0;
+    position:fixed;top:88px;left:0;right:0;
     flex-direction:column;align-items:stretch;gap:0;
     background:#141619;
     border-bottom:1px solid rgba(255,255,255,.1);
     box-shadow:0 16px 32px rgba(0,0,0,.5);
     max-height:0;overflow:hidden;padding:0 6%;
     transition:max-height .35s ease, padding .35s ease;
+    z-index:55;
   }
   .nav-links.open{max-height:380px;padding:10px 6% 22px}
   .nav-links a{
