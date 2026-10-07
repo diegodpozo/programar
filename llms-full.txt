@@ -54,6 +54,24 @@ Se entrega el sitio online y se acompaña con soporte, mantenimiento y mejoras p
 **¿Cómo empezamos?**
 Escribiendo por WhatsApp o enviando un mail para agendar una charla y entender qué necesita el cliente.
 
+**¿Están incluidos el hosting y el dominio?**
+Sí. Se ayuda a configurar el hosting y el dominio a nombre del cliente, con HTTPS incluido. El dominio tiene un costo anual a cargo del cliente y se acompaña todo el trámite.
+
+**¿El dominio y la web quedan a mi nombre?**
+Sí. El dominio queda registrado a nombre del cliente y se entrega el acceso completo al sitio. La web es del cliente desde el primer día.
+
+**¿Puedo contratar un solo servicio?**
+Sí, se puede contratar solo lo necesario: diseño, SEO o mantenimiento, de forma independiente.
+
+**¿Hacen logo, fotos y textos?**
+El diseño y los textos se arman con la información que pasa el cliente. Si necesita logo o fotos profesionales, se recomiendan profesionales con quienes se trabaja.
+
+**¿Trabajan fuera de Argentina?**
+Sí. Aunque se opera desde Buenos Aires, se trabaja de forma remota con clientes de todo el país y también del exterior.
+
+**¿Con qué tecnología trabajan?**
+HTML, CSS y JavaScript a medida: sitios livianos, rápidos y sin dependencias innecesarias. Si el proyecto necesita WordPress u otra plataforma, se evalúa en la charla.
+
 ---
 
 ## 4. Directorio del Sitio
