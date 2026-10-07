@@ -9,7 +9,7 @@
   --radius:16px;
 }
 *{margin:0;padding:0;box-sizing:border-box}
-html{scroll-behavior:smooth}
+html{scroll-behavior:smooth;scroll-padding-top:115px}
 body{
   font-family:'Inter',system-ui,-apple-system,sans-serif;
   background:var(--bg);
@@ -42,6 +42,19 @@ header{
   transition:transform .2s, box-shadow .2s;
 }
 .nav-wa:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.6)}
+
+/* Botón hamburguesa (solo mobile) */
+.nav-toggle{
+  display:none;flex-direction:column;justify-content:center;gap:6px;
+  background:none;border:0;padding:6px;cursor:pointer;
+}
+.nav-toggle span{
+  display:block;width:26px;height:2.5px;background:#fff;
+  border-radius:2px;transition:transform .3s,opacity .3s;
+}
+.nav-toggle.active span:nth-child(1){transform:translateY(8.5px) rotate(45deg)}
+.nav-toggle.active span:nth-child(2){opacity:0}
+.nav-toggle.active span:nth-child(3){transform:translateY(-8.5px) rotate(-45deg)}
 
 /* Hero */
 .hero{padding:48px 0 90px;text-align:center;position:relative;overflow:hidden}
@@ -200,8 +213,24 @@ footer .fcontact a{color:var(--muted);transition:color .2s}
 footer .fcontact a:hover{color:var(--white)}
 footer .copy{margin-top:24px;font-size:.82rem;color:rgba(168,173,180,.7)}
 
-@media (max-width:640px){
-  .nav-links a:not(.nav-wa){display:none}
+@media (max-width:768px){
+  .nav-toggle{display:flex}
+  .nav-links{
+    position:absolute;top:100%;left:0;right:0;
+    flex-direction:column;align-items:stretch;gap:0;
+    background:#141619;
+    border-bottom:1px solid rgba(255,255,255,.1);
+    box-shadow:0 16px 32px rgba(0,0,0,.5);
+    max-height:0;overflow:hidden;padding:0 6%;
+    transition:max-height .35s ease, padding .35s ease;
+  }
+  .nav-links.open{max-height:380px;padding:10px 6% 22px}
+  .nav-links a{
+    color:var(--white);font-size:1rem;
+    padding:13px 0;border-bottom:1px solid rgba(255,255,255,.08);
+  }
+  .nav-links a:last-child{border-bottom:0}
+  .nav-wa{justify-content:center;margin-top:14px}
   .hero{padding:36px 0 60px}
   .btn{width:100%;justify-content:center}
 }

@@ -131,7 +131,10 @@
     <a class="brand" href="index.html">
       <img src="logoII.png" alt="ProgramAR logo">
     </a>
-    <nav class="nav-links">
+    <button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false" aria-controls="navmenu">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="nav-links" id="navmenu">
       <a href="index.html#servicios">Servicios</a>
       <a href="precios.html">Precios</a>
       <a href="mecanica.html">Mecánica</a>
@@ -212,5 +215,22 @@
   </div>
 </footer>
 
+<script>
+document.querySelectorAll('.nav-toggle').forEach(function(btn){
+  var menu=btn.nextElementSibling;
+  btn.addEventListener('click',function(){
+    var open=menu.classList.toggle('open');
+    btn.classList.toggle('active',open);
+    btn.setAttribute('aria-expanded',open);
+  });
+  menu.querySelectorAll('a').forEach(function(a){
+    a.addEventListener('click',function(){
+      menu.classList.remove('open');
+      btn.classList.remove('active');
+      btn.setAttribute('aria-expanded','false');
+    });
+  });
+});
+</script>
 </body>
 </html>
