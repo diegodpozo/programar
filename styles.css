@@ -7,7 +7,7 @@
   --accent:#D5D9DE;
   --grad:linear-gradient(to right,#4F5761 0%,#22262B 55%,#141619 100%);
   --radius:16px;
-  --gold:#D4AF37;
+  --black:#000000;
 }
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:115px}
@@ -210,22 +210,22 @@ body.scrolled .brand img{height:56px}
 footer{
   background:var(--grad);
   border-top:1px solid rgba(255,255,255,.1);
-  padding:50px 0 30px;
+  padding:25px 0 15px;
   text-align:left;
 }
-footer .brand{justify-content:flex-start;margin-bottom:14px}
-footer .brand img{height:64px}
+footer .brand{justify-content:flex-start;margin-bottom:7px}
+footer .brand img{height:32px}
 footer p{color:var(--muted);font-size:.92rem}
-footer .fcontact{display:flex;align-items:center;gap:8px;margin-top:8px}
+footer .fcontact{display:flex;align-items:center;gap:8px;margin-top:4px}
 footer .fcontact svg{flex-shrink:0}
 footer .fcontact a{color:var(--muted);transition:color .2s}
 footer .fcontact a:hover{color:var(--white)}
-footer .copy{margin-top:24px;font-size:.82rem;color:rgba(168,173,180,.7)}
+footer .copy{margin-top:12px;font-size:.82rem;color:rgba(168,173,180,.7)}
 .footer-br{display:none}
 
 @media (min-width:769px){
-  header{border-bottom:2px solid var(--gold);border-bottom-left-radius:10%;border-bottom-right-radius:10%}
-  footer{border-top:2px solid var(--gold);border-top-left-radius:10%;border-top-right-radius:10%}
+  header{border-bottom:2px solid var(--black);border-bottom-left-radius:10%;border-bottom-right-radius:10%}
+  footer{border-top:2px solid var(--black);border-top-left-radius:10%;border-top-right-radius:10%}
 }
 
 @media (max-width:768px){
