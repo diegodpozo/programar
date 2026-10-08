@@ -7,6 +7,7 @@
   --accent:#D5D9DE;
   --grad:linear-gradient(to right,#4F5761 0%,#22262B 55%,#141619 100%);
   --radius:16px;
+  --green:#3ECF8E;
 }
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:115px}
@@ -181,8 +182,8 @@ body.scrolled .brand img{height:56px}
 .pricing .cta-group p{color:var(--muted);font-size:.95rem;margin-bottom:20px}
 @media (max-width:767px){.price-grid{grid-template-columns:1fr}}
 @media (min-width:769px){
-  header{border-bottom-left-radius:5%;border-bottom-right-radius:5%}
-  footer{border-top-left-radius:5%;border-top-right-radius:5%}
+  header{border-bottom-left-radius:10%;border-bottom-right-radius:10%;border:2px solid var(--green)}
+  footer{border-top-left-radius:10%;border-top-right-radius:10%;border:2px solid var(--green)}
 }
 @media (min-width:768px){.price-grid--2{grid-template-columns:repeat(2,1fr)}}
 .disclaimer{
