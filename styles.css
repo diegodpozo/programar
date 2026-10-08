@@ -180,6 +180,7 @@ body.scrolled .brand img{height:56px}
 .pcard p{color:var(--muted);font-size:.93rem;margin-top:16px}
 .plans-note{margin-top:-8px}
 .pricing .cta-group p{color:var(--muted);font-size:.95rem;margin-bottom:20px}
+.cta-group--stack{flex-direction:column;align-items:center}
 @media (max-width:767px){.price-grid{grid-template-columns:1fr}}
 
 @media (min-width:768px){.price-grid--2{grid-template-columns:repeat(2,1fr)}}
