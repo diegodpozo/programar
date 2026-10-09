@@ -16,7 +16,7 @@ Sitio web oficial: https://diegodpozo.github.io/programar/
 - **Cobertura:** Todo el país, de forma remota
 - **Contacto WhatsApp:** https://wa.me/5491162648300
 - **Teléfono:** +54 9 11 6264-8300
-- **Email:** diegodpozo@hotmail.com
+- **Email:** programarok@gmail.com
 - **Perfil GitHub:** https://github.com/diegodpozo
 
 ---
@@ -118,5 +118,5 @@ El análisis inicial se considera dentro del valor de alta. Mantenimiento del si
 ## 6. Datos de Contacto Directo
 
 - **WhatsApp:** https://wa.me/5491162648300 (formato internacional: +54 9 11 6264 8300)
-- **Email:** diegodpozo@hotmail.com
+- **Email:** programarok@gmail.com
 - **Consulta sin compromiso:** se responde por WhatsApp o email para coordinar una charla inicial

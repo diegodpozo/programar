@@ -31,7 +31,7 @@ Sitio estático (landing + FAQ + Mecánica + Precios) publicado en GitHub Pages.
 ## Reglas de contenido
 
 - Textos siempre en plural ("Armamos", "Escribinos"). Nunca mencionar "Diego Pozo".
-- Contacto fijo: WhatsApp `https://wa.me/5491162648300`, mail `diegodpozo@hotmail.com`.
+- Contacto fijo: WhatsApp `https://wa.me/5491162648300`, mail `programarok@gmail.com`.
 - Precios en USD con el asterisco de pie ("los valores no contienen IVA"). Lista de precios vigente:
   - Landing page: USD 400–900 según la implementación
   - Sitio web a medida: USD 3000 (sin límite de páginas)
