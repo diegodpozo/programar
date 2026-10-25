@@ -8,7 +8,7 @@
   --grad:linear-gradient(to right,#4F5761 0%,#22262B 55%,#141619 100%);
   --radius:16px;
   --black:#000000;
-  --green:#3ECF8E;
+  --green:#4E6B5C;
 }
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:115px}
@@ -212,7 +212,7 @@ body.scrolled .brand img{height:56px}
 }
 .step:hover{
   background:var(--green);border-color:var(--green);
-  box-shadow:0 0 0 6px rgba(62,207,142,.14),0 0 28px rgba(62,207,142,.65);
+  box-shadow:0 0 0 6px rgba(78,107,92,.18),0 0 28px rgba(78,107,92,.55);
   transform:translateY(-4px);
 }
 .step .num{
@@ -222,8 +222,8 @@ body.scrolled .brand img{height:56px}
 }
 .step h3{font-size:1.15rem;font-weight:700;margin-bottom:10px;transition:color .3s}
 .step p{color:var(--muted);font-size:.95rem;transition:color .3s}
-.step:hover .num,.step:hover h3{color:#0F1512}
-.step:hover p{color:#12331F}
+.step:hover .num,.step:hover h3{color:var(--white)}
+.step:hover p{color:var(--accent)}
 
 @media (max-width:768px){
   .steps{--gap:18px;grid-template-columns:1fr;margin-top:40px}
